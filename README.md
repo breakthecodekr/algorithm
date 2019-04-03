@@ -1,2 +1,2 @@
 # algorithm
-share code sw
+share code
