@@ -20,5 +20,8 @@ for j in trial:
         arr.append(str(N))
         N = temp
     
-    # 거스름돈 
+    # 거스름돈 출력
     print(' '.join(arr))
+
+    
+    
